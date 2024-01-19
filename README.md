@@ -1,6 +1,9 @@
 # DriversTracker
 DriverTrackers is a project aiming at tracking the drivers using Python, Dask and pandas.
 
+![Alt text](image.png)
+
+
 ## Description
 This project involves building a data processing pipeline to analyze the driving habits of individuals based on GPS data collected from mobile phones. The data includes information about the position of each driver, obtained from the GPS unit, and is stored in a CSV file (drivers.csv). Each row in the CSV represents a GPS measurement and includes details such as the driver's unique identifier, timestamp, latitude, and longitude coordinates.
 
