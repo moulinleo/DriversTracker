@@ -1,0 +1,7 @@
+dask==2022.7.0
+folium==0.15.1
+geopandas==0.14.1
+matplotlib==3.7.1
+pandas==2.0.2
+seaborn==0.13.1
+Shapely==2.0.2
